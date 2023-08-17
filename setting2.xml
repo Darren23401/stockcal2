@@ -1,0 +1,9 @@
+<params>
+    <url>https://www.twse.com.tw/rwd/en/afterTrading/STOCK_DAY</url>
+    <excelname>ASUSTEK</excelname>
+    <startyear>2023</startyear>
+    <startmonth>08</startmonth>
+    <endyear>2024</endyear>
+    <endmonth>06</endmonth>
+    <stockNo>2357</stockNo>
+</params>
